@@ -1,4 +1,4 @@
-# Unity Preview Capture
+# Unity Instant Screenshot
 It's simple unity tool, help for making screenshot for google play or app store resloution.
 
 # How to use
